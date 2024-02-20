@@ -1,2 +1,4 @@
 Hy Imran 
 Reg # 09876
+my name
+my age
